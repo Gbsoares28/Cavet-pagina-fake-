@@ -1,0 +1,6 @@
+{
+  "name": "CAVET Tijuca - Avaliação de Atendimento",
+  "description": "Canal de avaliação e feedback do cliente do CAVET - Hospital Veterinário Tijuca 24h com direcionamento para o Google.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
